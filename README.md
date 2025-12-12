@@ -1,4 +1,4 @@
-# 🌍 Földrajz Kvíz - AI-alapú oktató alkalmazás 
+# 🌍 Földrajz Kvíz - AI-alapú, tanulást segítő alkalmazás 
 Az alábbi leírást MI generálta, fejlesztő ellenőrizte és javította.
 
 ## 📖 Áttekintés
